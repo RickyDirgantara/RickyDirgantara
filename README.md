@@ -1,6 +1,6 @@
 <div align="center">
 <br/>
-<img src="https://giphy.com/gifs/anime-pixel-fighting-ramBbsu5kGc8AJHd1h" alt="Hey there, u can call me Rick!">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHV0ZDA4ZWYxYmVsMG42M2xqc2QxdDU3dG1qZnpka2wzdmkweDJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ramBbsu5kGc8AJHd1h/giphy.gif" alt="Hey there, u can call me Rick!">
 
 <br />
 
@@ -13,7 +13,7 @@
 
 <br/>
 <div>
-  ### Frameworks & Libraries
+   ### Frameworks & Libraries
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -23,7 +23,8 @@
 </div>
 <br/>
     <div>
-  ### Lang
+      
+   ### Lang
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
