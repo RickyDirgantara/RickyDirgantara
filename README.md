@@ -1,27 +1,56 @@
-### Hi there 👋
+<div align="center">
+<br/>
+<img src="https://giphy.com/gifs/anime-pixel-fighting-ramBbsu5kGc8AJHd1h" alt="Hey there, u can call me Rick!">
 
-I'm Ricky Dirgantara, Dedicated to building effective and dependable backend solutions.
+<br />
 
-🚀 **Currently Working On:**
-- Developing APIs.
+> **Through all errors and bugs, I alone the debugger one**.
+
+<br/>
+<br/>
+
+### **Dedicated to build an effective and dependable backend 🚬**
+
+<br/>
+<div>
+  ### Frameworks & Libraries
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
   
-🌱 **Currently Learning:**
-- Exploring the latest in [Technology/Tool].
-- Sharpening skills in [New Framework/Library].
+</div>
+<br/>
+    <div>
+  ### Lang
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>      
+</div>
+    <br/>
+<div>
 
-👯 **Open to Collaboration On:**
-- Innovative backend projects.
-- Opportunities for open source contributions.
+  ### Databases
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
+<br/>
 
-💬 **Ask Me About:**
-- Backend architecture and optimization.
-- Best practices in API design.
+### OS
 
-📫 **How to Reach Me:**
-- Personal Email: redshyper27@gmail.com
-- Student Email : 111202113268@mhs.dinus.ac.id
+<code><img height="20" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>
+<br/>
 
-😄 **Pronouns:**
-- He/Him
+![Stats](https://github-readme-stats.vercel.app/api?username=kelvinosse&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
 
-Explore my repositories and let's connect for exciting backend discussions! 🌐
+<br/>
+
+
+</div>
