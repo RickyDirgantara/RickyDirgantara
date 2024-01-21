@@ -4,7 +4,7 @@
 
 <br />
 
-> **Through all errors and bugs, I alone the debugger one**.
+ **Through all errors and bugs, I alone the debugger one**.
 
 <br/>
 <br/>
