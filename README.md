@@ -50,7 +50,7 @@
 <code><img height="20" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>
 <br/>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kelvinosse&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
+![RickyDirgantara's Stats](https://github-readme-stats.vercel.app/api?username=RickyDirgantara&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 <br/>
 
