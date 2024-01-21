@@ -55,6 +55,9 @@
 <br/>
 
 ![RickyDirgantara's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RickyDirgantara&theme=vue-dark&hide_border=false)
+
+<br />
+
 ![RickyDirgantara's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RickyDirgantara&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 <br/>
