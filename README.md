@@ -20,6 +20,10 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+
+
   
 </div>
 <br/>
@@ -50,7 +54,8 @@
 <code><img height="20" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>
 <br/>
 
-![RickyDirgantara's Stats](https://github-readme-stats.vercel.app/api?username=RickyDirgantara&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![RickyDirgantara's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RickyDirgantara&theme=vue-dark&hide_border=false)
+![RickyDirgantara's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RickyDirgantara&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 <br/>
 
